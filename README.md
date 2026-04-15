@@ -107,6 +107,7 @@ sales-forecasting/
 ├── images/
 ├── README.md
 └── requirements.txt
+```
 
 Future Improvements
 Test more advanced forecasting models
