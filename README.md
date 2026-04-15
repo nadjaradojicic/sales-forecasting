@@ -109,10 +109,10 @@ sales-forecasting/
 └── requirements.txt
 ```
 
-Future Improvements
+## Future Improvements
 Test more advanced forecasting models
 Add trend and seasonality decomposition
 Compare baseline forecasting with machine learning models
 
-Author
+## Author
 Nađa Radojičič
